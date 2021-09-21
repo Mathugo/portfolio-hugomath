@@ -18,3 +18,11 @@
 {
   display: none;
 }
+
+.internship-msg
+{
+  position: absolute;
+  bottom: 1em;
+  display: center;
+  text-align: center;
+}
