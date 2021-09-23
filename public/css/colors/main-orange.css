@@ -19,7 +19,8 @@
  */
 /*----------- Bootstrap Template -----------*/
 :root {
-  --custom: #fd7e14;
+ /* --custom: #fd7e14; */
+ --custom: #fd7e14;
 }
 
 .table-custom,
